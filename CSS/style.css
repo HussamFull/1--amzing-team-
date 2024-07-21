@@ -20,14 +20,17 @@
 .team1 {
    float: left;
    width: 33%;
+   margin-bottom: 20px
 }
 .team2 {
     float: left;
     width: 33%;
+    margin-bottom: 20px
  }
  .team3 {
     float: left;
     width: 33%;
+    margin-bottom: 20px
  }
  .clearfix{
     clear: left;
