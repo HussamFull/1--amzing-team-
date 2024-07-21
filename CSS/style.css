@@ -16,3 +16,19 @@
     font-size: 16px;
     color: #666;
 }
+
+.team1 {
+   float: left;
+   width: 33%;
+}
+.team2 {
+    float: left;
+    width: 33%;
+ }
+ .team3 {
+    float: left;
+    width: 33%;
+ }
+ .clearfix{
+    clear: left;
+ }
